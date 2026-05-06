@@ -54,14 +54,9 @@ StockSphere is a modern, interactive stock market dashboard that simulates real-
 * Machine learning-based predictions
 * Backend integration (Node.js / Django)
 
----
-
-## 📷 Demo
-
-(Add your deployed link or screenshots here)
 
 ---
 
 ## 👨‍💻 Author
 
-Developed by *[Your Name]*
+Developed by *KESHOV DHANUKA*
