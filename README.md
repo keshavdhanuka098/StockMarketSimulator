@@ -1,75 +1,67 @@
-# 📈 Stock Market Simulator (C)
+# 🚀 StockSphere – Live Market Dashboard
 
-A simple command-line based **Stock Market Simulator** written in C that allows users to buy and sell stocks, track their portfolio, and simulate price fluctuations.
+StockSphere is a modern, interactive stock market dashboard that simulates real-time trading environments with advanced UI and AI-driven insights.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- 📊 View available stocks with real-time prices  
-- 💰 Buy stocks based on available balance  
-- 💸 Sell owned stocks  
-- 📁 View portfolio (holdings + balance)  
-- 🔄 Simulate stock price updates using randomness  
-- 🧮 Basic portfolio management system  
+* 📊 Real-time stock price simulation engine
+* 📈 Interactive charts using Chart.js
+* 🔍 Smart search and filtering by sectors
+* 📂 Supports large dataset (1000+ stocks)
+* 🧠 AI-powered market prediction module
+* 📉 Gain/Loss tracking with visual indicators
+* 🧾 Detailed stock modal with analytics
+* 🌐 Global + Indian stock coverage
+* 📡 Live ticker animation
+* 💼 Portfolio tracking system
+* 🎨 Glassmorphism UI + 3D animated background (Three.js)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Language: **C**
-- Concepts Used:
-  - Structures (`struct`)
-  - Arrays
-  - Functions
-  - Pointers
-  - Random number generation (`rand()`)
-  - Standard I/O
-
----
-stock-simulator/
-│── main.c
-│── README.md
-
+* **Frontend:** HTML, CSS, JavaScript
+* **Visualization:** Chart.js
+* **3D Graphics:** Three.js
+* **Design:** Glassmorphism + Responsive UI
 
 ---
 
 ## ⚙️ How It Works
 
-- The program initializes **10 predefined stocks** with base prices.
-- The user starts with a balance of **₹100000**.
-- Stock prices fluctuate randomly when updated.
-- Users can:
-  - Buy stocks (if balance allows)
-  - Sell stocks (if owned)
-  - Track portfolio performance
+* A custom price engine simulates real-time stock fluctuations
+* Each stock maintains price history for chart visualization
+* Dynamic filtering, sorting, and pagination improve performance
+* AI section mimics predictive analytics using market signals
 
 ---
 
-## 🖥️ Menu Options
+## 🎯 Key Highlights
 
-View Stocks
-Buy Stock
-Sell Stock
-View Portfolio
-Update Stock Prices
-Exit
-
+* Handles large-scale stock data efficiently
+* Smooth animations and real-time UI updates
+* Modular and scalable frontend structure
+* Strong focus on user experience and performance
 
 ---
 
-## ▶️ How to Run
+## 📌 Future Improvements
 
-### Step 1: Compile
-```bash
-gcc main.c -o simulator
+* Real API integration (Zerodha, Alpha Vantage, etc.)
+* Authentication & user portfolios
+* Machine learning-based predictions
+* Backend integration (Node.js / Django)
 
-## 📂 Project Structure
-./simulator
---- Stock Market Simulator ---
-1. View Stocks
-2. Buy Stock
-3. Sell Stock
-4. View Portfolio
-5. Update Stock Prices
-0. Exit
+---
+
+## 📷 Demo
+
+(Add your deployed link or screenshots here)
+
+---
+
+## 👨‍💻 Author
+
+Developed by *[Your Name]*
