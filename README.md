@@ -56,6 +56,9 @@ StockSphere is a modern, interactive stock market dashboard that simulates real-
 
 
 ---
+🌐 Live Demo
+
+https://harmonious-gumption-4dc0b4.netlify.app/
 
 ## 👨‍💻 Author
 
