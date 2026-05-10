@@ -1,42 +1,98 @@
-# 🚀 StockSphere – Live Market Dashboard
+# 📈 StockSphere — AI-Powered Virtual Stock Market Simulator
 
-StockSphere is a modern, interactive stock market dashboard that simulates real-time trading environments with advanced UI and AI-driven insights.
+StockSphere is a premium, Bloomberg Terminal-inspired virtual trading platform that allows users to explore real-time stock market simulations, analyze technical indicators, generate AI-driven predictions, and practice paper trading with a ₹1 Crore virtual portfolio.
 
+Built entirely with HTML, CSS, and JavaScript, the platform offers a sleek professional interface with advanced charting, portfolio management, watchlists, authentication, and multiple market visualization modes.
 ---
 
-## ✨ Features
+✨ Features
+📊 Advanced Market Dashboard
+Live market overview for:
+NIFTY 50
+SENSEX
+BANK NIFTY
+USD/INR
+Gainers and losers summary
+Real-time ticker tape in navigation bar
 
-* 📊 Real-time stock price simulation engine
-* 📈 Interactive charts using Chart.js
-* 🔍 Smart search and filtering by sectors
-* 📂 Supports large dataset (1000+ stocks)
-* 🧠 AI-powered market prediction module
-* 📉 Gain/Loss tracking with visual indicators
-* 🧾 Detailed stock modal with analytics
-* 🌐 Global + Indian stock coverage
-* 📡 Live ticker animation
-* 💼 Portfolio tracking system
-* 🎨 Glassmorphism UI + 3D animated background (Three.js)
+📈 Multiple Visualization Modes
+Grid View
+Heatmap View
+Sector Performance Wheel
+Correlation Matrix
 
----
+🔍 Smart Search & Filters
+Search stocks by name or symbol
+Filter by sector
+Sort by:
+Price
+Percentage change
+Volume
+📉 Interactive Charting
+Candlestick and line charts
+Timeframes:
+1D, 1W, 1M, 3M, 1Y
+Technical indicators:
+MA20
+MA50
+Bollinger Bands
+MACD
 
-## 🛠️ Tech Stack
+🤖 AI-Powered Prediction Engine
+Buy / Sell / Hold recommendations
+Probability analysis
+Technical signal summaries
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Visualization:** Chart.js
-* **3D Graphics:** Three.js
-* **Design:** Glassmorphism + Responsive UI
+💼 Virtual Trading
+Buy and sell stocks
+Market, Limit, Stop Loss, and SL-M orders
+Intraday, Delivery, and Futures modes
+Brokerage calculation
+Real-time P&L tracking
 
----
+💰 Portfolio Management
+Virtual balance of ₹1,00,00,000 for new users
+Holdings overview
+Profit/Loss analytics
 
-## ⚙️ How It Works
+⭐ Watchlists
+Create multiple custom watchlists
+Add/remove stocks
+Quick stock access
 
-* A custom price engine simulates real-time stock fluctuations
-* Each stock maintains price history for chart visualization
-* Dynamic filtering, sorting, and pagination improve performance
-* AI section mimics predictive analytics using market signals
+🔐 Authentication System
+Login and signup forms
+Google authentication UI
+Persistent user sessions via localStorage
 
----
+🎨 Premium UI/UX
+Dark and light themes
+Responsive design
+Custom animations
+Professional financial dashboard aesthetics
+
+🛠️ Tech Stack
+| Technology                                                                   | Purpose                   |
+| ---------------------------------------------------------------------------- | ------------------------- |
+| HTML5                                                                        | Structure                 |
+| CSS3                                                                         | Styling and animations    |
+| JavaScript (ES6+)                                                            | Application logic         |
+| [Chart.js](https://www.chartjs.org?utm_source=chatgpt.com)                   | Interactive charts        |
+| LocalStorage                                                                 | Data persistence          |
+| [Google Fonts](https://fonts.google.com?utm_source=chatgpt.com)              | Typography                |
+| [Anthropic Claude API](https://console.anthropic.com?utm_source=chatgpt.com) | AI predictions (optional) |
+
+  
+📂 Project Structure
+StockSphere/
+│── index.html
+│── README.md
+
+All functionality is contained in a single HTML file, including:
+
+HTML markup
+CSS styles
+JavaScript logic
 
 ## 🎯 Key Highlights
 
@@ -57,8 +113,7 @@ StockSphere is a modern, interactive stock market dashboard that simulates real-
 
 ---
 🌐 Live Demo
-
-https://harmonious-gumption-4dc0b4.netlify.app/
+https://moonlit-hummingbird-a5e627.netlify.app/
 
 ## 👨‍💻 Author
 
