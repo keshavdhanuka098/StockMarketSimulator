@@ -105,10 +105,11 @@ JavaScript logic
 
 ## 📌 Future Improvements
 
-* Real API integration (Zerodha, Alpha Vantage, etc.)
-* Authentication & user portfolios
-* Machine learning-based predictions
-* Backend integration (Node.js / Django)
+* News sentiment analysis
+* Options chain simulator
+* Leaderboards
+* Firebase backend integration
+* Social trading features
 
 
 ---
